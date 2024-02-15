@@ -27524,6 +27524,7 @@ const BookView = ({ book, onBackClick })=>{
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                onClick: onBackClick,
                 children: "Back"
             }, void 0, false, {
                 fileName: "src/components/book-view/book-view.jsx",

@@ -12,7 +12,7 @@ export const BookView = ({ book, onBackClick }) => {
         <span>Author: </span>
         <span>{book.author}</span>
       </div>
-      <button>Back</button>
+      <button onClick={onBackClick}>Back</button>
     </div>
   );
 };

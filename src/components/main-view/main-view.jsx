@@ -6,24 +6,29 @@ export const MainView = () => {
       const [movies, setMovies] = useState([
     {
       id: 1,
-      title: "Eloquent JavaScript",
+      title: "Coming To America",
       image:
         "https://images-na.ssl-images-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
-      director: "Marijn Haverbeke"
-    },
+      director: "John Landis",
+      description: "An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will. A noble, adventurous prince and his valet agree to find love in the Big Apple against his fathers wishes.",
+      genre: "Comedy"
     {
       id: 2,
-      title: "Mastering JavaScript Functional Programming",
+      title: "The GodFather",
       image:
         "https://images-na.ssl-images-amazon.com/images/I/51WAikRq37L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg",
-      director: "Federico Kereki"
+      director: "Francis Ford Coppola",
+      description: "It is the first installment in The Godfather trilogy, chronicling the Corleone family under patriarch Vito Corleone from 1945 to 1955. It focuses on the transformation of his youngest son, Michael Corleone, from reluctant family outsider to ruthless mafia boss.",
+      genre: "Drama"
     },
     {
       id: 3,
-      title: "JavaScript: The Good Parts",
+      title: "Rush Hour",
       image:
         "https://images-na.ssl-images-amazon.com/images/I/5131OWtQRaL._SX381_BO1,204,203,200_.jpg",
-      director: "Douglas Crockford"
+      director: "Brett Ratner",
+      description: "A loyal and dedicated Hong Kong Inspector teams up with a reckless and loudmouthed L.A.P.D. detective to rescue the Chinese Consuls kidnapped daughter, while trying to arrest a dangerous crime lord along the way.",
+      genre: "Comedy"
     }
   ]);
 

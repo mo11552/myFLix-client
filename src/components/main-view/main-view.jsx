@@ -8,7 +8,7 @@ export const MainView = () => {
       id: 1,
       title: "Coming To America",
       image:
-        "https://images-na.ssl-images-amazon.com/images/I/51InjRPaF7L._SX377_BO1,204,203,200_.jpg",
+        "https://images.app.goo.gl/ypNfVVhByYTFAQgg7",
       director: "John Landis",
       description: "An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will. A noble, adventurous prince and his valet agree to find love in the Big Apple against his fathers wishes.",
       genre: "Comedy"

@@ -12,6 +12,7 @@ export const MainView = () => {
       director: "John Landis",
       description: "An extremely pampered African prince travels to Queens, New York and goes undercover to find a wife that he can respect for her intelligence and strong will. A noble, adventurous prince and his valet agree to find love in the Big Apple against his fathers wishes.",
       genre: "Comedy"
+    },
     {
       id: 2,
       title: "The GodFather",
